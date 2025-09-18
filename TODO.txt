@@ -1,0 +1,4 @@
+* Test and decide the braille display approach:
+  a) using the braille.handler.message() call with a temporary infinite message display timeout.
+  b) Using a read-only textbox which turnes speech mode to off when focused.
+* Create an item in NVDA menu for showing the BrailleTeacher window.
